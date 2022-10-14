@@ -1,1 +1,1 @@
-console.log('Hello World  Deployed successfully 1234567890');
+console.log('Hello World  Deployed successfully on friday 1234567890');
